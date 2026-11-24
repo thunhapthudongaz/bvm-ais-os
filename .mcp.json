@@ -2,7 +2,7 @@
   "mcpServers": {
     "apify": {
       "type": "http",
-      "url": "https://mcp.apify.com?tools=actors,runs,storage,docs"
+      "url": "https://mcp.apify.com?tools=actors,runs,storage,docs,compass/Google-Maps-Reviews-Scraper,apify/facebook-reviews-scraper,apify/facebook-comments-scraper"
     }
   }
 }
